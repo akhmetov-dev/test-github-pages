@@ -7,5 +7,7 @@ text 3.
 
 ![01_1](./images/01.png)
 
+```mermaid
 graph LR
     A[Первый блок] --> B[Второй блок]
+```
