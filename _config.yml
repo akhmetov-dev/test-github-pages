@@ -1,4 +1,4 @@
 theme: jekyll-theme-midnight
 
-plugins:
-  - jekyll-mermaid
+# Removed `jekyll-mermaid` plugin — GitHub Pages does not allow custom Jekyll plugins
+# when building the site. Client-side Mermaid rendering is used instead.
